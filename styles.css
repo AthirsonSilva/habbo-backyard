@@ -32,6 +32,10 @@ html, body {
   align-items: flex-end
 }
 
+.player-info input[type="text"] {
+	width: 250px;
+}
+
 label {
   display: block;
   font-weight: bold;
