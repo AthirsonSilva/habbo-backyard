@@ -1,0 +1,17 @@
+{
+	"name": "habbo-backyard",
+	"version": "1.0.0",
+	"description": "A simple 2D game made with Vanilla JS and Firebase",
+	"main": "app.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AthirsonSilva/habbo-backyard.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AthirsonSilva/habbo-backyard/issues"
+	},
+	"homepage": "https://github.com/AthirsonSilva/habbo-backyard#readme"
+}
